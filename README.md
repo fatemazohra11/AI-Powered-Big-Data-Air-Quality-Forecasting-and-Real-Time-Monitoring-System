@@ -138,6 +138,13 @@ Using SHAP:
 - Identification of major pollution factors
 
 
+
+
+
+
+---
+
+
 ## 4. Real-Time Streaming System
 
 Technologies:
@@ -159,5 +166,100 @@ AI Prediction Model
 |
 ↓
 Real-Time AQI Forecast
+
+
+
+
+# Application Layer
+
+## FastAPI Backend
+
+Provides:
+
+- REST API prediction service
+- Model deployment
+- Swagger documentation
+
+
+## Streamlit Dashboard
+
+Provides:
+
+- AQI visualization
+- Forecast results
+- Pollution trends
+- Explainable AI insights
+
+---
+
+# 🛠️ Technology Stack
+
+### Programming
+- Python
+- SQL
+
+### Big Data
+- Apache Spark
+- PySpark
+- Apache Kafka
+
+### AI / ML
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- LSTM
+- Transformer
+
+### Explainability
+- SHAP
+
+### Backend
+- FastAPI
+
+### Visualization
+- Streamlit
+- Plotly
+
+### Deployment
+- Docker
+- Cloud Architecture
+
+---
+
+#### Model Evaluation
+
+Performance is measured using:
+
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Square Error)
+- MAPE
+- R² Score
+
+
+---
+
+### Future Enhancements
+
+- Graph Neural Network for pollution spread prediction
+- Federated Learning for multi-city forecasting
+- Satellite image integration
+- Generative AI AQI report generation
+- Smart city digital twin simulation
+
+---
+
+###  Applications
+
+- Smart city air monitoring
+- Environmental risk prediction
+- Public health planning
+- Pollution management
+- Government decision support
+
+
+
+
+
+
 
 
